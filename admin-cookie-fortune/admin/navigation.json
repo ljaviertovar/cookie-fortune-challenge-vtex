@@ -1,0 +1,12 @@
+{
+  "section": "apps",
+  "titleId": "admin/cookie-fortune.navigation.label-group",
+  "adminVersion": 4,
+  "subSection": "example",
+  "subSectionItems": [
+    {
+      "labelId": "admin/cookie-fortune.navigation.label-main",
+      "path": "/admin/cookie-fortune"
+    }
+  ]
+}

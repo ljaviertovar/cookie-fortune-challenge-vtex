@@ -1,0 +1,65 @@
+.styleguide__box {
+  border: none;
+  padding: 0;
+  background-color: transparent;
+}
+
+.styleguide__pageBlock_title {
+  color: #5da6b0;
+}
+
+.lucky-container {
+  height: 300px;
+  display: grid;
+  place-content: center;
+}
+
+.lucky-container button {
+  border-radius: 50px;
+}
+
+.cookie-fortune-container {
+  height: 146px;
+  display: grid;
+  place-content: center;
+}
+
+.cookie-fortune-phrase {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #fcae27;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: rgba(247, 130, 36, 0.4);
+}
+
+.cookie-fortune-number {
+  color: #fcae27
+}
+
+.cookie-fortune-button {
+  display: flex;
+  align-items: center;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 0.7em 1.4em 0.7em 1.1em;
+  color: white;
+  background: #5da6b0;
+  background: linear-gradient(0deg, rgba(93, 166, 176, 1) 0%, rgb(126, 222, 235) 100%);
+  border: none;
+  box-shadow: 0 0.7em 1.5em -0.5em #5498a1;
+  letter-spacing: 0.05em;
+  border-radius: 20em;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.cookie-fortune-button:hover {
+  box-shadow: 0 0.5em 1.5em -0.5em #5498a1;
+}
+
+.cookie-fortune-button:active {
+  box-shadow: 0 0.3em 1em -0.5em #5498a1;
+}
