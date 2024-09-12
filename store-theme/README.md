@@ -2,6 +2,10 @@
 
 The `CookieFortune` component is a storefront feature that provides users with a fun and interactive experience by displaying a fortune cookie phrase and a lucky number. It allows users to open a fortune cookie and try another one if they wish.
 
+![image](https://github.com/user-attachments/assets/8f1b1c63-acf2-404a-bc12-d85c494d6ea7)
+![image](https://github.com/user-attachments/assets/1d0a900b-e3cf-4dab-a9cb-dd444868e87b)
+
+
 ## Features
 
 - **Displays a fortune cookie phrase and a lucky number**
